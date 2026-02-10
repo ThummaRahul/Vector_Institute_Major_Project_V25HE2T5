@@ -140,11 +140,18 @@ Multi-ECU-Vehicle-Monitoring-Using-CAN/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Presented By ->
 
 **T. Rahul**
 
 B.Tech – Electrical and Electronics Engineering
+
+---
+
+## 🎓 Project Guide
+
+Chandramouli Sir
+(Project Guide / Tutor)
 
 Embedded Systems | CAN | LPC2129  
 
