@@ -58,7 +58,7 @@ The system consists of **three independent ECUs (nodes)** connected through a CA
 
 * LPC2129 Microcontroller
 * CAN Transceiver (MCP2551)
-* LCD (16x2)
+* LCD (20x4)
 * LEDs (8)
 * Push Buttons / Switches
 * Potentiometer (Battery Simulation)
@@ -119,18 +119,6 @@ Multi-ECU-Vehicle-Monitoring-Using-CAN/
 │   └── project_report.pdf
 │
 ├── README.md
-└── LICENSE
-```
-
----
-
-## 📟 Output Description
-
-* LCD displays engine temperature and battery percentage
-* LEDs indicate vehicle status using scrolling pattern
-* CAN bus ensures reliable real-time communication between ECUs
-
-If all outputs are observed correctly, the project is successfully completed ✅
 
 ---
 
@@ -155,15 +143,9 @@ If all outputs are observed correctly, the project is successfully completed ✅
 ## 👨‍💻 Author
 
 **T. Rahul**
+
 B.Tech – Electrical and Electronics Engineering
-Embedded Systems | Automotive CAN | LPC2129
 
----
+Embedded Systems | CAN | LPC2129  
 
-## 📜 License
 
-This project is licensed under the **MIT License** – free to use and modify for learning and educational purposes.
-
----
-
-⭐ *If you like this project, don’t forget to star the repository!*
