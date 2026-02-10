@@ -27,7 +27,6 @@ To design and develop a multi-ECU vehicle monitoring system using the Controller
 
 The system consists of **three independent ECUs (nodes)** connected through a CAN bus:
 
-![image alt](https://github.com/ThummaRahul/Vector_Institute_Major_Project_V25HE2T5/blob/main/Delay_Files/InShot_20260210_202554761.jpg.jpeg?raw=true).
 
 
 ### 🔹 Main Node
@@ -64,7 +63,8 @@ The system consists of **three independent ECUs (nodes)** connected through a CA
 * Push Buttons / Switches
 * Potentiometer (Battery Simulation)
 * DS18B20 Temperature Sensor
-* USB to UART Converter
+
+![image alt](https://github.com/ThummaRahul/Vector_Institute_Major_Project_V25HE2T5/blob/main/Delay_Files/InShot_20260210_202554761.jpg.jpeg?raw=true).
 
 ---
 
@@ -91,13 +91,7 @@ The system consists of **three independent ECUs (nodes)** connected through a CA
 
 ---
 
-## 🔄 CAN Communication Flow
-
-```
-Battery Node  ───►  Main Node  ───►  Indicator Node
-      ▲                 │
-      └─────────────────┘
-```
+![image alt](https://github.com/ThummaRahul/Vector_Institute_Major_Project_V25HE2T5/blob/main/Delay_Files/InShot_20260210_202554761.jpg.jpeg?raw=true).
 
 ---
 
