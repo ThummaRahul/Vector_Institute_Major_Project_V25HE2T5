@@ -91,7 +91,7 @@ The system consists of **three independent ECUs (nodes)** connected through a CA
 
 ---
 
-![image alt](https://github.com/ThummaRahul/Vector_Institute_Major_Project_V25HE2T5/blob/main/Delay_Files/InShot_20260210_202554761.jpg.jpeg?raw=true).
+![image alt](https://github.com/ThummaRahul/Vector_Institute_Major_Project_V25HE2T5/blob/main/Delay_Files/Screenshot%20(94).png?raw=true).
 
 ---
 
