@@ -27,6 +27,9 @@ To design and develop a multi-ECU vehicle monitoring system using the Controller
 
 The system consists of **three independent ECUs (nodes)** connected through a CAN bus:
 
+![image alt](https://github.com/ThummaRahul/Vector_Institute_Major_Project_V25HE2T5/blob/main/Delay_Files/InShot_20260210_202554761.jpg.jpeg?raw=true).
+
+
 ### 🔹 Main Node
 
 * Reads engine temperature using **DS18B20**
