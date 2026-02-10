@@ -142,17 +142,18 @@ Multi-ECU-Vehicle-Monitoring-Using-CAN/
 
 ## 👨‍💻 Presented By ->
 
-**T. Rahul**
+T. Rahul
 
 B.Tech – Electrical and Electronics Engineering
 
+Embedded Systems | CAN | LPC2129 
 ---
 
 ## 🎓 Project Guide
 
 Chandramouli Sir
 (Project Guide / Tutor)
-
-Embedded Systems | CAN | LPC2129  
+Vector India
+Embedded Systems training institute in Hyderabad, Telangana
 
 
